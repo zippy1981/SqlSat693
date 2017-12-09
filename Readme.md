@@ -1,3 +1,5 @@
 Hello from SQL Saturday.
 
-Second setence.
+This is the second setence.
+
+This has been code reviewed.
