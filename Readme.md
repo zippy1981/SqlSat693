@@ -1,1 +1,3 @@
-Hello from SQL Saturday
+Hello from SQL Saturday.
+
+Second setence.
